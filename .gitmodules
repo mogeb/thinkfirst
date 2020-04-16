@@ -5,5 +5,5 @@
 	path = thinkfirst/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/tale"]
-	path = themes/tale
+	path = blog/themes/tale
 	url = https://github.com/EmielH/tale-hugo.git
