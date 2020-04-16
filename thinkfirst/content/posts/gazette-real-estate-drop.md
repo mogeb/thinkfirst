@@ -1,8 +1,8 @@
 ---
-title: "Gazette Real Estate Drop"
+title: "Montreal real estate market is going into a black hole with no hope of recovery"
 date: 2020-04-15T20:11:41-04:00
 draft: false
+tags: ["real estate", “sensationalism”]
 ---
 
-something here
-
+![](/images/2020-04-15-gazette.jpg)
