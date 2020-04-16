@@ -2,6 +2,6 @@
 
     {{- if .PublishDate }}
         <br>
-        <span>Published on&nbsp;</span><time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
+        <span>{{ i18n "on" }}&nbsp;</span><time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
     {{- end }}
 </div>
