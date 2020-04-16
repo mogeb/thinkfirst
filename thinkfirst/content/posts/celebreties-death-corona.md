@@ -7,10 +7,12 @@ tags: ["celebrity", “obituary”, “death”, “covid19”, “Montreal Gaze
 
 We know the coronavirus pandemic is raging so we're going to scream about a death without even telling you *how* it happened. Just so you can make the connections!
 
-# This one is tragic because it's young
+# Feel fear because he's young
 
 ![](/images/2020-04-05-gazette.jpg)
 
-# Also tragic but because he's super old
+# Feel tragedy because he's old
 
 ![](/images/2020-03-24-euronews.jpg)
+
+But under no circumstance should you clearly know that they died from something other than covid19!
