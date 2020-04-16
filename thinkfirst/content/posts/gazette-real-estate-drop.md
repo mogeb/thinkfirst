@@ -5,6 +5,4 @@ draft: false
 tags: ["real estate", “sensationalism”]
 ---
 
-teoiujiujiojoijfoijf
-
 ![](/images/2020-04-15-gazette.jpg)
