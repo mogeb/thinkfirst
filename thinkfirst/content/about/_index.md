@@ -6,6 +6,8 @@ layout: "about"
 draft: false
 ---
 
-Have you ever read a news article and wondered, "Who the 🤬 wrote this 🐄💩?"
+Have you ever read a news article and wondered, "Who the *f* wrote this shit?"
 
 We feel the same everyday. This project started off after a few discussions we had about the state of modern news. Every week we'll find the best zingers in the media and share them with annotations here. This of us as two angry high school teachers giving the an F on their report.
+
+Created by [@charlesgedeon](https://twitter.com/charlesgedeon) and [@mogeb88](https://twitter.com/mogeb88). Tweet at us!
