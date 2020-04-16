@@ -1,0 +1,3 @@
+[submodule "thinkfirst/themes/tale"]
+	path = thinkfirst/themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
