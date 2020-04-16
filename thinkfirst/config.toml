@@ -3,3 +3,30 @@ languageCode = "en-us"
 title = "ThinkFirst News"
 theme = "tale"
 googleAnalytics = "UA-163791434-1"
+sectionPagesMenu = "main"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    title = "Resources"
+    url = "/resources/"
+    weight = 0
+  [[menu.main]]
+    identifier = "prototypes"
+    name = "Prototypes"
+    title = "Prototypes"
+    url = "/prototypes/"
+    weight = 0
