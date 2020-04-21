@@ -12,4 +12,4 @@ We feel the same everyday. This project started off after a few discussions we h
 
 Created by [@charlesgedeon](https://twitter.com/charlesgedeon) and [@mogeb88](https://twitter.com/mogeb88). Tweet at us!
 
-Follow us on [Facebook](https://www.facebook.com/thinkfirstnews/).
+Follow us on [Facebook](https://www.facebook.com/thinkfirstnews/), [Instagram](https://www.instagram.com/thinkfirstnews/), and [Twitter](https://www.twitter.com/thinkfirstnews/).
