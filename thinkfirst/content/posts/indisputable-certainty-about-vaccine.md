@@ -19,7 +19,7 @@ Congratulations, you’ve made it past the pop-up and the NYT thanks you! Now th
 
 ![](/images/2020-04-21-003-nyt.png)
 
-Alright, but they must have said something of value, right? Well, yes. Before that ridiculous conclusion, they do provide two medical scenarios in accessible language and genuinely useful illustrations that we couldn’t share here. However, these scenarios are common knowledge and have been reported several times without anything new being added. Let’s see what the first is:
+Alright, but they must have said something of value, right? Well, yes. Before that ridiculous conclusion, they do provide two medical scenarios in accessible language and genuinely useful illustrations that we couldn’t share here. However, these scenarios are common knowledge and have been reported several times without anything new being added. Let’s see what the first one is:
 
 ![](/images/2020-04-21-004-nyt.png)
 
