@@ -1,9 +1,11 @@
 ---
 title: "Indisputable certainty from scientists promising a coronavirus vaccine on an exact date"
 date: 2020-04-21T21:49:22-04:00
-draft: true
+draft: false
 tags: ["hyperbole", “covid19”, “New York Times”]
 ---
+
+Recently, the New York Times posted an article with a title whose premise in these panicked times is so tantalizing, the reader can’t restrain themselves from clicking.
 
 ![](/images/2020-04-21-001-nyt.png)
 
