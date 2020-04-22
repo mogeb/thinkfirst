@@ -1,7 +1,7 @@
 baseURL = "http://thinkfirst.news/"
 languageCode = "en-us"
 title = "ThinkFirst News"
-theme = "hyde-hyde"
+theme = "tale"
 googleAnalytics = "UA-163791434-1"
 sectionPagesMenu = "main"
 
