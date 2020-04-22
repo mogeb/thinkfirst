@@ -11,7 +11,7 @@ Recently, the New York Times posted an article with a title whose premise in the
 
 Unlike your friendly neighbourhood fortune teller, who shrouds her lies with mysticism, the NYT is promising you guaranteed insight into the future of the coronavirus vaccine.
 
-All they are ask in exchange for this extremely valuable and irrefutable information is your email and some personal information. What a bargain!
+All they are asking in exchange for this extremely valuable and irrefutable information is your email and some personal information. What a bargain!
 
 ![](/images/2020-04-21-002-nyt.png)
 
