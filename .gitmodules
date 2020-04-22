@@ -1,3 +1,6 @@
 [submodule "thinkfirst/themes/tale"]
 	path = thinkfirst/themes/tale
 	url = https://github.com/EmielH/tale-hugo.git
+[submodule "thinkfirst/themes/hyde-hyde"]
+	path = thinkfirst/themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde
