@@ -31,7 +31,7 @@ It doesn’t stop there though. Remember the second scenario they mentioned?
 
 Yep. Scenario 1: The vaccine works. Scenario 2: The vaccine doesn’t work. I’m not sure what I’m supposed to learn here. Was there supposed to be a Scenario 3: The virus learns to tap-dance and gives an award-winning broadway show?!
 
-During a health crisis, papers rush to “break” news as quickly as possible. In order to keep things fresh, there are a variety of tactics they employ to deceive you. Check out the two we identified in this article, based on On The Media’s excellent Breaking News Consumer’s Handbook resource below.
+During a health crisis, papers rush to “break” news as quickly as possible. In order to keep things fresh, there are a variety of tactics they employ to deceive you. Check out the two we identified in this article, based on [On The Media](https://www.wnycstudios.org/podcasts/otm/segments/breaking-news-consumers-handbook-health-news-edition)’s excellent Breaking News Consumer’s Handbook resource below.
 
 ![](/images/2020-04-21-006-bnch.png)
 
