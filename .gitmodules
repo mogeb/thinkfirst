@@ -1,3 +1,6 @@
 [submodule "thinkfirst/themes/hyde-hyde"]
 	path = thinkfirst/themes/hyde-hyde
 	url = https://github.com/htr3n/hyde-hyde
+[submodule "thinkfirst/themes/tale"]
+	path = thinkfirst/themes/tale
+	url = https://github.com/mogeb/tale-hugo
