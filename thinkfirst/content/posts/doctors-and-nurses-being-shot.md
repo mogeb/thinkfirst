@@ -1,5 +1,5 @@
 ---
-title: "Herds of doctors and nurses are being shot by the government for daring to offer help"
+title: "[SATIRE] Herds of doctors and nurses are being shot by the government for daring to offer help"
 date: 2020-04-19T16:30:39-04:00
 draft: false
 tags: ["covid19", “healthcare”, “Montreal Gazette”]
