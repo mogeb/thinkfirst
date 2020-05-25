@@ -6,9 +6,9 @@ layout: "about"
 draft: false
 ---
 
-Have you ever read a news article and wondered, "Who the *f* wrote this shit?"
+Learn to browse, consume, and share information critically and conscientiously
 
-We feel the same everyday. This project started off after a few discussions we had about the state of modern news. Every week we'll find the best zingers in the media and share them with annotations here. We're like two angry high school teachers giving naughty students an F on their report.
+This project started off after a few discussions we had about the state of modern news. Every weekday we'll find the best zingers in the media and share them with annotations. From best practices to ridiculously poor reporting—we're like two angry high school teachers giving naughty students an F on their report.
 
 Created by [@charlesgedeon](https://twitter.com/charlesgedeon) and [@mogeb88](https://twitter.com/mogeb88). Tweet at us!
 
