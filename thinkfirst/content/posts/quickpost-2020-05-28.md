@@ -1,7 +1,8 @@
 ---
 title: "Inconsistency between social caption and article content is still misinformation"
 date: 2020-05-28T10:35:07-04:00
-draft: true
+draft: false
+tags: ["quick post", "Global news", "social media", "covid19"]
 ---
 
 ![](/images/QP-2020-05-28-web.png)
