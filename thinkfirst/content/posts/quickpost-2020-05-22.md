@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Very clear evidence is needed. Except for Bloomberg."
+title: "[Quick Post] Pasting legal paragraphs in your status does nothing"
 date: 2020-05-22T19:20:50-04:00
 draft: false
 tags: ["quick post", "social media", "legal", "facebook"]
