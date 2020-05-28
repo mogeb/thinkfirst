@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Jay Rosen on Flooding the Zone with Shit"
+title: "Jay Rosen on Flooding the Zone with Shit"
 date: 2020-05-08T19:20:50-04:00
 draft: false
 tags: ["quick post", "quote", "journalism"]

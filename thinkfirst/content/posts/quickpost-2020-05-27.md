@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Twitter has added fact check links to POTUS' tweets"
+title: "Twitter has added fact check links to POTUS' tweets"
 date: 2020-05-27T19:20:50-04:00
 draft: false
 tags: ["quick post", "twitter", "social media", "POTUS", "fact check"]

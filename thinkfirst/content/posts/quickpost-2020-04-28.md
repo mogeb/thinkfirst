@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Reporting the news should not be multiple choice"
+title: "Reporting the news should not be multiple choice"
 date: 2020-04-28T20:59:11-04:00
 draft: false
 tags: ["quick post", “breaking news”, “death”, “kim junghyun”]

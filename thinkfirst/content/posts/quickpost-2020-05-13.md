@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] WHO unveils COVID-19 WhatsApp chatbot for official information"
+title: "WHO unveils COVID-19 WhatsApp chatbot for official information"
 date: 2020-05-13T19:20:50-04:00
 draft: false
 tags: ["quick post", "chatbot", "WHO", "covid19"]

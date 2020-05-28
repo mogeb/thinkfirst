@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] A pharmaceutical company press release is not scientific evidence"
+title: "A pharmaceutical company press release is not scientific evidence"
 date: 2020-05-26T19:20:50-04:00
 draft: false
 tags: ["quick post", "nature", "vaccine", "moderna", "covid19"]

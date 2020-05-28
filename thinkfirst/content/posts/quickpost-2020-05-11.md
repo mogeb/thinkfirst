@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Use DuckDuckGo to research controversial topics"
+title: "Use DuckDuckGo to research controversial topics"
 date: 2020-05-11T19:20:50-04:00
 draft: false
 tags: ["quick post", "search engines", "algorithms"]

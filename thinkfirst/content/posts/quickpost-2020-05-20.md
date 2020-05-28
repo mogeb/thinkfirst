@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Can COVID-19 infect you further than 6ft?"
+title: "Can COVID-19 infect you further than 6ft?"
 date: 2020-05-20T19:20:50-04:00
 draft: false
 tags: ["quick post", "science", "covid19", "misinformation"]

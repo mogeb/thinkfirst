@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] The Trumpet of Amplification by FirstDraft News"
+title: "The Trumpet of Amplification by FirstDraft News"
 date: 2020-05-15T19:20:50-04:00
 draft: false
 tags: ["quick post", "social media", "misinformation"]

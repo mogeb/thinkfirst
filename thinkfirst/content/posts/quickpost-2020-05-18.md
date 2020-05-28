@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Calling Bullshit: A class by the University of Washington"
+title: "Calling Bullshit: A class by the University of Washington"
 date: 2020-05-18T19:20:50-04:00
 draft: false
 tags: ["quick post", "education", "misinformation"]

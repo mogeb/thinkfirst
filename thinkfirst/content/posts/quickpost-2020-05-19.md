@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Global News completely omitted the point about vaccines in travel"
+title: "Global News completely omitted the point about vaccines in travel"
 date: 2020-05-19T19:20:50-04:00
 draft: false
 tags: ["quick post", "comments", "covid19", "global news"]

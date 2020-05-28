@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Coronavirus is not a war"
+title: "Coronavirus is not a war"
 date: 2020-04-21T20:59:11-04:00
 draft: false
 tags: ["quick post", “covid19”]

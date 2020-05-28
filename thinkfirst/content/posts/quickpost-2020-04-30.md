@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Microsoft stock will either go up, down, or stay the same."
+title: "Microsoft stock will either go up, down, or stay the same."
 date: 2020-04-30T20:59:11-04:00
 draft: false
 tags: ["quick post", “stocks”, “microsoft”, “seeking alpha”]

@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] Beware articles where experts aren't sourced"
+title: "Beware articles where experts aren't sourced"
 date: 2020-05-12T19:20:50-04:00
 draft: false
 tags: ["quick post", "forbes", "experts", "sources"]

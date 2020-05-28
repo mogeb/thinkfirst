@@ -1,5 +1,5 @@
 ---
-title: "[Quick Post] The Truth Sandwich"
+title: "The Truth Sandwich"
 date: 2020-05-25T19:20:50-04:00
 draft: false
 tags: ["quick post", "jay rosen", "george lakoff", "reporting", "misinformation"]
