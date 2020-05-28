@@ -5,7 +5,7 @@ draft: false
 tags: ["quick post", “stocks”, “microsoft”, “seeking alpha”]
 ---
 
-![](/images/QP-2020-04-30.png)
+![](/images/QP-2020-04-30-web.png)
 
 Place your bets before the reports come in! Financial reporting like this is how investors of old made big money. Buy, sell, or keep your $MSFT stocks today.
 

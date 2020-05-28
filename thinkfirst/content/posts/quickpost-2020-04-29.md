@@ -4,7 +4,7 @@ date: 2020-04-29T20:59:11-04:00
 draft: false
 tags: ["quick post", “pxta”, “covid19”]
 ---
-![](/images/QP-2020-04-29.png)
+![](/images/QP-2020-04-29-web.png)
 
 Introducing a new ThinkFirst News metric: “pxTA” stands for “Pixels To Answer” and it’s a measure of how many pixels from the top of the screen you need to scroll through to get to the point of an article.
 

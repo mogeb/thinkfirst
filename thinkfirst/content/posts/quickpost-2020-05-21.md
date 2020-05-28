@@ -5,6 +5,6 @@ draft: false
 tags: ["quick post", "science", "covid19", "bloomberg"]
 ---
 
-![](/images/QP-2020-05-21.png)
+![](/images/QP-2020-05-21-web.png)
 
 Not even Bloomberg Business is immune to the CLICKBAIT-19 virus. Most outlets are willing to contradict themselves in the name of a good headline.

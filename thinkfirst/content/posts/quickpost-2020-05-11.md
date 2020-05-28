@@ -5,6 +5,6 @@ draft: false
 tags: ["quick post", "search engines", "algorithms"]
 ---
 
-![](/images/QP-2020-05-11.png)
+![](/images/QP-2020-05-11-web.png)
 
 Have you heard of the [DuckDuckGo](https://duckduckgo.com/) search engine? It’s known for being privacy focused, but it’s not just good for hiding your data. It’s also a great way to search for news that you don't want affecting your search recommendations and social feeds.

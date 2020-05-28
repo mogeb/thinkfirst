@@ -5,6 +5,6 @@ draft: false
 tags: ["quick post", "education", "misinformation"]
 ---
 
-![](/images/QP-2020-05-18.png)
+![](/images/QP-2020-05-18-web.png)
 
 This perfectly titled free course by the University of Washington is essential for anyone looking to read science publications in the media more critically. Learn more at [callingbullshit.org](https:/callingbullshit.org).

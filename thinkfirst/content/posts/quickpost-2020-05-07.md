@@ -5,6 +5,6 @@ draft: false
 tags: ["quick post", "typo", "new delhi", "visakhapatnam"]
 ---
 
-![](/images/QP-2020-05-07.png)
+![](/images/QP-2020-05-07-web.png)
 
 No worries National Post, you’re only off by 1,600km. Posting this from from Rio de Janeiro, Denmark.

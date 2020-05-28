@@ -5,6 +5,6 @@ draft: false
 tags: ["quick post", "quote", "journalism"]
 ---
 
-![](/images/QP-2020-05-08.png)
+![](/images/QP-2020-05-08-web.png)
 
 Thinking about the news. Thank you Jay Rosen.

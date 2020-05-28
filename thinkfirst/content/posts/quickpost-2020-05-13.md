@@ -5,8 +5,8 @@ draft: false
 tags: ["quick post", "chatbot", "WHO", "covid19"]
 ---
 
-![](/images/QP-2020-05-13-001.png)
+![](/images/QP-2020-05-13-001-web.png)
 
-![](/images/QP-2020-05-13-002.png)
+![](/images/QP-2020-05-13-002-web.png)
 
 Get your Covid-19 information from trusted sources. Text “Hi” to +41 79 893 18 92 on WhatsApp to get information from the official WHO chatbot. It's multi-lingual as well! Just say "hi" in your language and it will respond accordingly.
