@@ -5,7 +5,7 @@ draft: false
 tags: ["quick post", “covid19”]
 ---
 
-![](/images/2020-04-21-QP.png)
+![](/images/QP-2020-04-21.png)
 
 This is not a war. The virus is not an enemy. The CHSLD is not a battlefront.
 

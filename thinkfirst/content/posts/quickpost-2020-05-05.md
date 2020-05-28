@@ -5,6 +5,6 @@ draft: false
 tags: ["quick post", "murder hornet", "sensationalism"]
 ---
 
-![](/images/2020-05-05-QP.gif)
+![](/images/QP-2020-05-05.gif)
 
 We read this reasonably titled article by Global News this morning and thought we have a better idea for the leading image.

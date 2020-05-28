@@ -5,6 +5,6 @@ draft: false
 tags: ["quick post", "covid19", "death", "conspiracy"]
 ---
 
-![](/images/2020-05-06-QP.png)
+![](/images/QP-2020-05-06.png)
 
 This event doesn't need a thin veil of conspiracy to be tragic. The police’s primary hypothesis was about race. CNN juxtaposed two unrelated facts, suggesting an alarming correlation without evidence.
